@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamed Ali
 ===================================================================================================================================
 
-Full stack Engineer
+Software Engineer
 -------------------
 
 A Proficient Software Engineer with experience in Full-Stack Development, combining a strong foundation in problem solving and low- level programming with C and modern languages like Python, Java, and JavaScript. Proficient in leveraging tools such as Django, HTML, CSS, and Java script to build dynamic,scalable web applications. Skilled in implementing data structures, algorithms and design patterns to create efficient, maintainable software solutions. Experienced in using Bash scripting and version control systems (Git / GitHub) to optimize development workflows and ensure collaborative project success.
